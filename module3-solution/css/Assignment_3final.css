@@ -1,0 +1,122 @@
+body{
+	font-size: 16px;
+	color: #fff;
+	background-color: #61122f;
+	font-family: 'Oxygen', sans-serif;
+}
+#header-nav{
+	background-color: #f6b319;
+    border-radius: 0;
+    border: 0;
+}
+#header-nav button {
+    margin-top: 22px;
+}
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+    background-color: #fce29e;
+}
+.navbar-collapse {
+    border-top: 0;
+}
+.navbar-brand, .navbar-nav li a {
+    line-height: 76px;
+    height: 76px;
+    padding-top: 0;
+}
+.navbar-brand h1 {
+    color: #61122f;
+    font-family: 'Abril Fatface', cursive;
+    font-weight: bolder;
+    font-size: 1.8em;
+    padding-right: 20px;
+    margin-left: 50px;
+}
+.navbar-brand a:hover {
+    text-decoration: none;
+    text-shadow: 1px 1px 1px white;
+}
+#nav-list {
+    background-color: #f6b319;
+}
+#nav-list a {
+	border-bottom: 1px solid #61122f; 
+    text-align: center;
+    font-weight: bolder;
+    color: #61122f ;
+    font-size: 1.2em;
+}
+#nav-list a:hover {
+    color: #202020;
+    background-color: #fce29e;
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+    border: 1px solid #7d1913;
+}
+
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #61122f;
+}
+#top-heading{
+	margin-bottom: 25px;
+}
+
+
+.col-md-4,.col-sm-6, .col-xs-12{
+		margin-bottom: 25px;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#chicken-tile,#beef-tile, #sushi-tile{
+	width: 100%;
+	background-color: grey;
+	border: 2px solid black;
+	padding-top: auto;
+	padding-bottom: auto;
+	padding-right: 10px;
+	padding-left: 10px;
+	text-align: justify;
+	color: black;
+
+}
+#chicken-tile h3{
+	color: pink;
+}
+
+#beef-tile h3{
+	color: pink;
+}
+
+#sushi-tile h3{
+	color: pink;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
